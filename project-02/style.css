@@ -1,0 +1,26 @@
+#white{
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    position: absolute;
+}
+#red{
+    height: 50px;
+    width: 300px;
+    background-color: brown;
+    position: absolute;
+}
+#blue{
+height: 80px;
+    width: 300px;
+    background-color: blue;
+    position: absolute;
+    top: 110px;
+}
+#red1{
+    height: 50px;
+    width: 300px;
+    background-color: brown;
+    position: absolute;
+    top: 250px;
+}
