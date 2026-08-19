@@ -1,3 +1,20 @@
-body{
-    background-color: rgb(21, 121, 209);
+#white{
+    height: 300px;
+    width: 300px;
+    background-color: aliceblue;
+    position: absolute;
+}
+#blue
+{
+    height: 300px;
+    width: 100px;
+    background-color: blue;
+    position: absolute;
+}
+#red{
+    height: 300px;
+    width: 100px;
+    background-color: red;
+    position: absolute;
+    left: 200px;
 }
