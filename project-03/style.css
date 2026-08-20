@@ -1,0 +1,25 @@
+#black{
+    height: 300px ;
+    width: 300px;
+    background-color: black;
+    position: fixed;
+}
+#green{
+    height: 100px ;
+    width: 300px;
+    background-color: green;
+    position: absolute;
+}
+#white{
+    height: 100px ;
+    width: 300px;
+    background-color: white;
+    position: absolute;
+    top: 100px;
+}
+#red{
+    height: 300px ;
+    width: 100px;
+    background-color: red;
+    position: absolute;
+}
