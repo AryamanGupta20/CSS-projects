@@ -2,14 +2,16 @@
     padding: 0px;
     margin: 0px;
 }
-body{
+body
+{
 background-color: aqua;
 display: flex;
     justify-content: center;
     align-items: center;
    height: 100vh;
 }
-.box{
+.box
+{
     height: 400px;
     width: 600px;
     background-color: aliceblue;
